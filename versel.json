@@ -4,7 +4,7 @@
     {
       "src": "bot.py",
       "use": "@vercel/python",
-      "env": {
+      "env": ".env" {
         "BUILD": "production"  // Optional environment variable
       }
     }
